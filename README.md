@@ -1,5 +1,7 @@
 # hotel
-R-code for numerical simultions for a paper entitled:
-"Hotelling model with firms located close to each other"
+R-code for numerical simultions in section 3.2 in a paper entitled:
+"Hotelling's model with firms located close to each other"
+by Oz Shy, email: ozshy@ozshy.com 
 
-Download the .R file which provides all the computations and graphs displayed in section 3.2 in the paper. 
+Download the file: hotel_2021_12_8.R which provides all the computations and graphs displayed in section 3.2 in the paper. 
+You need to have R installed on your computer. 
