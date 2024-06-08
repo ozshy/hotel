@@ -1,5 +1,5 @@
 # hotel
-R-code for numerical simulations used in section 6 of a paper entitled:
+R-code for Figures 4, 5, and 6 in a paper entitled:
 "Hotelling's model with firms located close to each other"
 by Oz Shy (Review of Industrial Organization, Forthcoming)
 
